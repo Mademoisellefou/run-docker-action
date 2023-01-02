@@ -4,7 +4,7 @@ inputs:
   who-to-greet:
     description: 'who greet'
     required: true
-    default: 'world'
+    default: 'MELANY\></'
 outputs:
   time:
     description: 'the time we greeted you'
